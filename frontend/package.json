@@ -2,9 +2,10 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
+ "scripts": {
     "dev": "next dev",
-    "build":"next build"
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "@formspree/react": "^3.0.0",
